@@ -40,18 +40,18 @@ if (numeroRandom > 100) {
 //     console.log("El numero es mayor a 18");
 //   }
 
-// //Switch
+//Switch
 
-// switch (palabraBuscada) {
-//   case "coca":
-//     console.log("La palabra buscada es coca");
-//     break;
+switch (palabraBuscada) {
+  case "coca":
+    console.log("La palabra buscada es coca");
+    break;
 
-//   case "pepsi":
-//     console.log("la palabra buscada es pepsi");
-//     break;
-//   default:
-//     console.log("La palabra buscada no esta entre las opciones");
-//     break;
-// }
+  case "pepsi":
+    console.log("la palabra buscada es pepsi");
+    break;
+  default:
+    console.log("La palabra buscada no esta entre las opciones");
+    break;
+};
 
