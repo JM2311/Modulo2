@@ -410,6 +410,7 @@ Deberá de repetirse el proceso hasta que el usuario pulse «cancelar».*/
 // }
 // document.write(`la primera vocal esta en la posicion ${posicion}`);
 
+//OTRA FORMA DE HACERLO DE MANERA ERRONEA
 // for (let i = 0; i < peticionAlUsuario.length; i++) {
 //   if (
 //     peticionAlUsuario.charAt(i) == "a" ||
