@@ -124,9 +124,11 @@
 //     document.write(`${text} esta formado solo por mayusculas`);
 //   } else if (text == text.toLowerCase()) {
 //     document.write(`${text} esta formado solo por minusculas`);
-//   } else if (text == text.toLowerCase() && text == text.toUpperCase()) {
-//     document.write(`${text} esta formado por minusculas y mayusculas`);
+//   }else{
+//     document.write(`${text} esta formado solo por minusculas`);
 //   }
+    
+  
 // };
 // textoAnalizado(textoDelUsuario);
 
